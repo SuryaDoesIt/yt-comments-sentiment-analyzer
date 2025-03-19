@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.png
+*.jpg
+.DS_Store
+nltk_data/
